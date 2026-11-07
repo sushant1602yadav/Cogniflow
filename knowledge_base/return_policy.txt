@@ -1,0 +1,39 @@
+
+COGNIFLOW CUSTOMER RETURN POLICY
+
+1. Return Eligibility
+- Customers can request a return within 7 calendar days of delivery.
+- Products must be unused and returned with original packaging.
+- Products must include all accessories and documentation.
+- Damaged or incorrect products may qualify for an exception.
+
+2. Non-Returnable Products
+- Products marked as non-returnable cannot normally be returned.
+- Personalised products are not eligible for standard returns.
+- Products damaged through customer misuse are not eligible.
+
+3. Return Request Process
+- Customers must provide their order ID.
+- Customers must explain the reason for the return.
+- Photographs may be requested for damaged or incorrect products.
+- Support representatives must verify the purchase and delivery details.
+
+4. Return Inspection
+- Returned products are inspected after receipt.
+- Approved returns proceed to refund or replacement processing.
+- Rejected returns must include a clear explanation.
+
+5. Replacement Policy
+- Replacement may be offered for damaged or incorrect products.
+- Replacement depends on product availability.
+- If replacement is unavailable, an eligible refund may be considered.
+
+6. Escalation
+- Return requests unresolved for more than 3 business days should be escalated.
+- Disputed return decisions require supervisor review.
+
+7. AI and Human Approval
+- AI can check return eligibility using company policies.
+- AI can recommend a refund or replacement.
+- AI cannot independently approve or execute refunds.
+- Requests requiring exceptions must be reviewed by a human representative.

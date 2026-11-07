@@ -1,0 +1,38 @@
+
+COGNIFLOW CUSTOMER REFUND POLICY
+
+1. Refund Eligibility
+Customers are eligible for a refund if:
+- The product was delivered in a damaged condition.
+- The wrong product was delivered.
+- The order was cancelled before shipment.
+- The product was returned within the permitted return period.
+
+2. Refund Time
+- Refund requests are reviewed within 2 business days.
+- Approved refunds are processed within 5-7 business days.
+- The actual credit time depends on the customer's bank or payment provider.
+
+3. Non-Refundable Situations
+Refunds are generally not available if:
+- The product was damaged by the customer after delivery.
+- The return request was submitted after the permitted return period.
+- The product is marked as non-returnable.
+
+4. Missing Refund
+If a customer has not received an approved refund:
+- First verify the refund approval status.
+- Check the transaction reference.
+- Ask the customer to contact their bank if the processing period has passed.
+- Escalate unresolved cases to the finance team.
+
+5. Refund Approval
+- Refund requests must be reviewed by the support team.
+- Refunds above ₹10,000 require manager approval.
+- AI systems can recommend refunds but cannot approve or execute them independently.
+
+6. Customer Communication
+Support representatives must clearly explain:
+- Whether the refund is eligible.
+- The expected processing time.
+- Any additional information required from the customer.

@@ -1,0 +1,34 @@
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Frontend
+streamlit
+pandas
+
+# Configuration and validation
+python-dotenv
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+
+# Generative AI and agent framework
+langchain
+langchain-core
+langchain-text-splitters
+langgraph
+langchain-ollama
+
+# Retrieval-Augmented Generation
+chromadb
+sentence-transformers
+pypdf
+
+# HTTP communication
+httpx
+
+# Testing (for post-publication testing)
+pytest

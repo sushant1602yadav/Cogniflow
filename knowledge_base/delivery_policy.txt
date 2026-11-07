@@ -1,0 +1,31 @@
+
+COGNIFLOW CUSTOMER DELIVERY POLICY
+
+1. Standard Delivery
+- Standard delivery usually takes 3-7 business days.
+- Delivery timelines may vary depending on the customer's location.
+- Customers receive an order confirmation after successful payment.
+
+2. Delayed Delivery
+- If an order has not arrived within the estimated delivery period, the customer can raise a support request.
+- Support representatives must check the shipment tracking status.
+- If tracking information has not changed for 48 hours, the case should be escalated to the logistics team.
+
+3. Damaged Delivery
+- Customers should report damaged products within 48 hours of delivery.
+- Customers should provide photographs of the damaged product and packaging.
+- Eligible damaged-delivery cases may qualify for a replacement or refund.
+
+4. Failed Delivery
+- If delivery fails because the customer is unavailable, another delivery attempt may be scheduled.
+- If the delivery address is incorrect, the customer must contact support.
+- Repeated delivery failures should be escalated to the logistics team.
+
+5. Delivery Escalation
+- Delivery issues unresolved for more than 5 business days must be escalated.
+- High-priority delivery complaints should receive immediate attention.
+
+6. AI and Human Approval
+- AI can analyze delivery complaints and recommend actions.
+- AI cannot independently issue refunds or authorize compensation.
+- Sensitive actions require human approval.
